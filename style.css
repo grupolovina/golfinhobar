@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background-image: url('./img/fundogolfinho.png');
+  background: #003448;
   color: #e1e1f1;
   display: flex;
   flex-direction: column;
@@ -127,7 +127,7 @@ ul.links li:not(:last-child) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #00A8EB;
+  background-color: #003448;
   gap: 1rem;
   padding: 1rem;
   border-radius: 20px;
